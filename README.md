@@ -2,7 +2,7 @@
 
 ## Project Goal
 
-Analysing ecommerce data, to see any trends and patterns in. Customer behaviour, product performance and marketing insights.
+Analyse an e-commerce dataset to identify trends and patterns in customer behaviour, product performance and marketing performance using SQL, Python and Power BI.
 
 ## Dataset
 
@@ -21,7 +21,7 @@ The dataset contained 7 related tables, including:
 - Import CSV datasets
 - Clean and prepare data using pandas
 - Identify the relationships and granularity between tables
-- SQL queires to answer business questions
+- Write SQL queries to answer business questions
 - Pandas for additional analysis and aggregations
 - Create interactive dashboards in Power BI
 
